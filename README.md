@@ -1,5 +1,5 @@
 # RPI 5B Pro Case
-A simple Mac-inspired design for the RPI 5B
+A simple Mac-inspired design for the RPI 5B<br>
 ![Preview](https://raw.githubusercontent.com/Cherrytree56567/RPI-5B-Pro-Case/refs/heads/main/Render/0001-0250.gif)
 
 ## Features
